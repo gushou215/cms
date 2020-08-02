@@ -91,4 +91,4 @@ Route::get('check_mail_show','UserController@checkMailShow')->name('check_mail_s
 Route::get('send_mail_token','UserController@sendMailToken')->name('send_mail_token');
 Route::get('check_register_mail/{token}','UserController@checkUserMail')->name('check_register_mail');
 
-//测试
+//测试测试测试测试
